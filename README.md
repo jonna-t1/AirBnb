@@ -5,8 +5,17 @@
 -	How does an Airbnb’s price in Bristol compare to other parts of the UK (Manchester)? (price)
 -	Can I predict the average price of AirBnb for Manchester?
 
+## Files
+
+airbnb.ipynb - Data analysis work script
+
+---
+## Usage
+
+Include .csv files within a DATA/ folder. See below to source the data.
 
 ## Libraries used:
+
 matplotlib          3.5.2
 
 numpy               1.23.1
